@@ -1,0 +1,37 @@
+/* theme name : newthemes
+author: sokhorn 
+author url: http://localhost/wordpress
+version:1.0
+ */
+
+h1{
+    color: rebeccapurple;
+}
+ul {
+    overflow: hidden;
+    background: rgb(250, 71, 131);
+    /* background: linear-gradient(rgb(218, 38, 68),rgb(86, 202, 248),blue) */
+}
+li{
+    float: left;
+    list-style: none;
+    font-size: 15px;
+}
+li a{
+    text-decoration: none;
+    padding: 30px;
+    display: block;
+    color: black;
+    font-size: 20px;
+    
+}
+li:hover{
+    background: rgb(179, 133, 165);
+  
+}
+li a:hover{
+    color: aliceblue;
+}
+.div{
+    background: #000;
+}
